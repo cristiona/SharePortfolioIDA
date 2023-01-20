@@ -41,7 +41,7 @@
         <exec.mainClass>fr.utc.ida.forge.shareportfolioida.SharePortfolioIDA</exec.mainClass>
         <name>${project.groupId}:${project.artifactId}</name>
         <description>This library allows the creation and hading of shares both simple or complexe.</description>
-        <url>https://github.com/NicoDiaz141007/projetAgileNS.git</url>
+        <url>https://github.com/cristiona/SharePortfolioIDA.git</url>
         <sonar.organization>cristiona</sonar.organization>
         <sonar.projectKey>cristiona_SharePortfolioIDA</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
